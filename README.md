@@ -1,4 +1,4 @@
-Advanced Sockets
+node groups plugin
 ====
 #### Rete.js plugin
 
